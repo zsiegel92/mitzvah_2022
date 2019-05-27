@@ -10,3 +10,5 @@ Currently set up to read a spreadsheet containing parent input regarding:
 * Whether the child is a twin who will be sharing their ceremony
 
 If you are a synagogue and would like to contact me regarding this work, please visit [my website](https://zsiegel92.github.io/) for my contact information. More complete documentation is [in the works](https://zsiegel92.github.io/mitzvah_writeup/Mitzvah.pdf).
+
+The vast majority of the work for this project is thrown in the extremely long `read_g_form.py`.
